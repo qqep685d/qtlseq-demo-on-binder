@@ -1,0 +1,15 @@
+name: qtlseq-demo
+channels:
+  - bioconda
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - bwa
+  - samtools
+  - bcftools
+  - snpeff
+  - trimmomatic
+  - qtlseq
